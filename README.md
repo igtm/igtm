@@ -1,4 +1,4 @@
-![igtm's GitHub stats](https://github-readme-stats.vercel.app/api?username=igtm&show_icons=true&theme=radical&count_private=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igtm&theme=dracula)
 <!--START_SECTION:waka-->
 ```text
 Go           ████████████████▒░░░░░░░░░░░░░░░░░░░░░░░░   39.55 % 
