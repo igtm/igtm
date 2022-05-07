@@ -2,8 +2,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Go                    █████████████████▓░░░░░░░   70.97 %
-SQL                   ███████▒░░░░░░░░░░░░░░░░░   29.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
