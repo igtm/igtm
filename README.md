@@ -2,8 +2,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Go                        ████████████████████████▓   99.29 %
-CSV/TSV                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
