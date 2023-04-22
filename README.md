@@ -2,10 +2,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript                   █████████▒░░░░░░░░░░░░░░░   37.82 %
-Docker                       ████▓░░░░░░░░░░░░░░░░░░░░   18.04 %
-JSON                         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
-Other                        ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
