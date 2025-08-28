@@ -7,6 +7,6 @@
 **Daily (last 30 days)**  
 ![Daily LOC](assets/loc_daily.png)
 
-**Monthly (last 12 months)**  
+**Monthly (last 36 months)**  
 ![Monthly LOC](assets/loc_monthly.png)
 <!-- LOC-STATS:END -->
