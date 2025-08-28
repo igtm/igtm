@@ -2,13 +2,9 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <!-- LOC-STATS:START -->
-
 ### 📊 LOC Score
 
-**Daily (last 30 days)**  
-![Daily LOC](assets/loc_daily.png)
-
-**Monthly (last 12 months)**  
-![Monthly LOC](assets/loc_monthly.png)
-
+| Daily (last 30 days) | Monthly (last 36 months) |
+|:---------------------:|:-------------------------:|
+| ![Daily LOC](assets/loc_daily.png) | ![Monthly LOC](assets/loc_monthly.png) |
 <!-- LOC-STATS:END -->
